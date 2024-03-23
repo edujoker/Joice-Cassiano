@@ -2,3 +2,8 @@
 <br>
 <h2 align="center">Pagina 1</h2>
 <br>
+<div align="center"><img src="https://raw.githubusercontent.com/edujoker/Joice-Cassiano/ef27f621ccd3bcb6c7951e305f501b8ffd5679a6/partials/pagina%201.png"/></div>
+<br>
+<h2 align="center">Pagina 2</h2>
+<br>
+<div><img src=" </div>
