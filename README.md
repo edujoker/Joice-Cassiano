@@ -6,4 +6,8 @@
 <br>
 <h2 align="center">Pagina 2</h2>
 <br>
+<div><img src="https://github.com/edujoker/Joice-Cassiano/blob/main/partials/pagina%202.png?raw=true" /> </div>
+<br>
+<h2 align="center">Pagina 3</h2>
+<br>
 <div><img src=" </div>
