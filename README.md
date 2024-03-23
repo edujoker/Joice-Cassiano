@@ -6,12 +6,15 @@
 <br>
 <h2 align="center">Pagina 2</h2>
 <br>
-<div><img src="https://github.com/edujoker/Joice-Cassiano/blob/main/partials/pagina%202.png?raw=true" /> </div>
+<div align="center"><img src="https://github.com/edujoker/Joice-Cassiano/blob/main/partials/pagina%202.png?raw=true" /> </div>
 <br>
 <h2 align="center">Pagina 3</h2>
 <br>
-<div><img src="https://github.com/edujoker/Joice-Cassiano/blob/main/partials/pagina%203.png?raw=true" /> </div>
+<div align="center"><img src="https://github.com/edujoker/Joice-Cassiano/blob/main/partials/pagina%203.png?raw=true" /> </div>
 <br>
 <h2 align="center">Pagina 4</h2>
 <br>
-<div><img src=" </div>
+<div align="center"><img src="https://github.com/edujoker/Joice-Cassiano/blob/main/partials/pagina%204.png?raw=true"/> </div>
+<h2 align="center">Pagina 5</h2>
+<br>
+<div align="center"><img src=" </div>
